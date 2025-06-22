@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141795453327",
+    "project_id": "followstars-252ef",
+    "storage_bucket": "followstars-252ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141795453327:android:2c7dcab78452b955ea43fa",
+        "android_client_info": {
+          "package_name": "com.plus.onepluspay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141795453327-pl8pctt9r5shst5o8kso5peqjnf1jscq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF934NbxVwuXaRjcCq-pd1eR7mW1fjjpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141795453327-pl8pctt9r5shst5o8kso5peqjnf1jscq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
